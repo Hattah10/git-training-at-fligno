@@ -1,5 +1,3 @@
 # git-training-at-fligno
 
-Norhata Sampaco
-
-For stash purposes -1
+Norhata Sampaco Bachelor of Science Information Technology 
